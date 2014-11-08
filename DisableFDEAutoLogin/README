@@ -1,0 +1,5 @@
+When upgrading a FileVault enabled Mac to Yosemite, automatic login should be disabled when using First Boot Package Install Generator.app to install packages during the startup process. If automatic login is not disabled, the additional packages will be skipped over. 
+
+DisableFDEAutoLogin.sh disables automatic login when FileVault is enabled and should be applied before upgrading. 
+
+removeDisableFDEAutoLogin.sh will re-enable automcatic login and should be applied at the end of the upgrade process.
