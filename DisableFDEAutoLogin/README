@@ -1,4 +1,4 @@
-When upgrading a FileVault2 enabled Mac to 10.10, automatic login should be disabled when installing additional packages at first boot. If automatic login is not disabled, the additional packages will be skipped over.
+When upgrading a FileVault2 enabled Mac to 10.10, automatic login should be disabled when installing additional packages at first boot. If automatic login is not disabled, the additional packages will be skipped over. Scripts are also available as payload-free packages.
 
 DisableFDEAutoLogin.sh disables automatic login when FileVault is enabled and should be applied before upgrading. 
 
