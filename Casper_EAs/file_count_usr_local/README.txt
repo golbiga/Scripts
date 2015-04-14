@@ -1,0 +1,1 @@
+This Extension Attribute will check the file count of /usr/local. During Yosemite upgrades files in /usr/local are moved and then put back in the end. If you have a high number (100000+) of files in /usr/local, the upgrade can take many hours. 
