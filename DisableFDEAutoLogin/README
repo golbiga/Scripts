@@ -2,4 +2,4 @@ When upgrading a FileVault2 enabled Mac to 10.10, automatic login should be disa
 
 DisableFDEAutoLogin.sh disables automatic login when FileVault is enabled and should be applied before upgrading. 
 
-removeDisableFDEAutoLogin.sh will re-enable automcatic login and should be applied at the end of the upgrade process.
+removeDisableFDEAutoLogin.sh will re-enable automatic login and should be applied at the end of the upgrade process.
