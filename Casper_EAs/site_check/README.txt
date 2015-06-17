@@ -1,0 +1,1 @@
+This Extension Attribute will check if a system is on-site or off-site based on whether it can ping your internal JSS. Using CheckSiteNetwork from CasperCheck (https://github.com/rtrouton/CasperCheck).
