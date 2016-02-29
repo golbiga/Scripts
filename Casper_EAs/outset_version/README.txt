@@ -1,0 +1,1 @@
+This Extension Attribute will check if Outset is installed and what version. Outset 2.0 added a --version argument. If a version pre 2.0.0 is installed, it will report 1.x is installed.
